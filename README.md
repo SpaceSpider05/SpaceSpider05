@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SpaceSpider05
 - 👀 I’m interested in Devlopemant 
-- 🌱 I’m currently learning Web and app Devlopement
+- 🌱 I’m currently learning Web and app Developement
 - 📫 How to reach me
 - Gmail = bakhalidmohamed@gmail.com
 

@@ -19,6 +19,4 @@ Just a curious mind diving into the world of code. I’m all about turning coffe
 Let’s chat, collaborate, or just share some memes:
 
 - Email: [bakhalidmohamed@gmail.com](mailto:bakhalidmohamed@gmail.com)
-- Instagram: https://www.instagram.com/space_x_malware/
-- Twitter: https://x.com/SpaceBully05
 

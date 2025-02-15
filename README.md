@@ -1,6 +1,19 @@
 # 💫 About Me:
-👋 Hey there! I'm Spider<br><br>Just a curious mind diving into the world of code. I’m all about turning coffee into code and ideas into reality.<br><br>👀 What I’m Into<br><br>Web Stuff: Crafting websites that not only work but also look pretty darn good. I tinker with HTML, CSS, and JavaScript—like a mad scientist but with fewer explosions.<br><br>App Magic: Bringing mobile and desktop apps to life with Flutter, C# and Python. If you’ve got a problem, I’ve probably got an app idea for it.<br><br>🌱 Currently Learning<br><br>More Web and App Wizardry: Leveling up my skills in full-stack and mobile development. APIs, cloud, databases—you name it, I’m on it.<br><br>Not Breaking Things: Also known as learning Git and version control.<br><br>📫 Hit Me Up<br><br>Let’s chat, collaborate, or just share some memes:<br><br>Email: bakhalidmohamed@gmail.com
+👋 **Hello! I’m Spider**  
+A curious mind diving into the world of code, always eager to turn coffee into code and ideas into reality.  
 
+### 🌐 **What I’m Into**  
+- **Web Development**: Crafting websites that not only work but look great. Passionate about HTML, CSS, JavaScript, and frameworks like **React** and **Vue.js**.  
+- **App Development**: Bringing mobile and desktop apps to life using **Flutter**, **C#**, and **Python**. If you have a problem, I’ve likely got an app idea for it.
+- 
+### 🌱 **Currently Learning**  
+- **Full-Stack & Mobile Development**: Leveling up with advanced web technologies, including **APIs**, **cloud** platforms, and **databases**.  
+- **Version Control**: Perfecting my **Git** skills and learning the ins and outs of version control.  
+
+### 📫 **Let’s Connect**  
+Want to collaborate, chat, or just share some memes?  
+Feel free to reach out via:  
+**Email**: [bakhalidmohamed@gmail.com](mailto:bakhalidmohamed@gmail.com)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mohamed.Malware) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/space_x_malware) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SpaceBully05) 

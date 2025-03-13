@@ -3,7 +3,7 @@
 A curious mind diving into the world of code, always eager to turn coffee into code and ideas into reality.  
 
 ### 🌐 **What I’m Into**  
-- **Web Development**: Crafting websites that not only work but look great. Passionate about HTML, CSS, JavaScript, and frameworks like **React** and **Vue.js**.  
+- **Web Development**: Crafting websites that not only work but look great. Passionate about HTML, CSS, JavaScript, and frameworks like **React** and **Laravel**.  
 - **App Development**: Bringing mobile and desktop apps to life using **Flutter**, **C#**, and **Python**. If you have a problem, I’ve likely got an app idea for it.
 
 ### 🌱 **Currently Learning**  
